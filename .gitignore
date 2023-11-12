@@ -1,0 +1,9 @@
+.env
+__pycache__/
+zenbo-client/
+zenboclient/__pycache__/
+pyzenbo/build/
+pyzenbo/dist/
+pyzenbo/pyzenbo.egg-info/
+pyzenbo/pyzenbo/__pycache__/
+pyzenbo/pyzenbo/modules/__pycache__/

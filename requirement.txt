@@ -1,0 +1,2 @@
+python-dotenv==1.0.0
+pyzenbo==1.0.46.2220
